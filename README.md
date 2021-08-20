@@ -25,6 +25,8 @@ sudo apt install yarn nodejs
 ## Após ser feita toda a instação executar os comandos: 
 
 ```bash
+# executar os comandos abaixo dentro da pasta do projeto.
+
 yarn install
 
 # executar o projeto:
