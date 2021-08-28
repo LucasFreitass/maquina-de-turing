@@ -1,0 +1,8 @@
+0 _ _ l 0
+0 1 _ l 0
+0 _ x l 1
+1 x x r 2
+2 1 0 r 2
+2 0 0 * 3
+2 _ x l halt-accept
+3 0 _ l halt-accept
