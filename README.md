@@ -33,7 +33,7 @@ yarn install
 yarn start <nome_arquivo_entrada>.in
 
 ```
-## Exemplo de execucão
+## Exemplo de execução
 
 ```bash
 yarn start exemplo.in
